@@ -1,0 +1,12 @@
+﻿@model Category
+<form asp-action="Edit">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="form-group">
+				<label asp-for="Name" class="controle-lable"></label>
+				<input asp-for="Name" class="form-control" autocomplete="off"/>
+				<span asp-validation-for="Name" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Edit" class="btn btn-outline-success float-right" />
+			</div>
+</form>
