@@ -219,7 +219,6 @@ D:\crud2\crud2\obj\Debug\net9.0\crud2.pdb
 D:\crud2\crud2\obj\Debug\net9.0\crud2.genruntimeconfig.cache
 D:\crud2\crud2\obj\Debug\net9.0\ref\crud2.dll
 D:\crud2\crud2\obj\Debug\net9.0\crud2.sourcelink.json
-D:\crud2\crud2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\crud2\crud2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
 D:\crud2\crud2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
 D:\crud2\crud2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -231,3 +230,9 @@ D:\crud2\crud2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 D:\crud2\crud2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 D:\crud2\crud2\bin\Debug\net9.0\System.Formats.Asn1.dll
 D:\crud2\crud2\bin\Debug\net9.0\System.Text.Json.dll
+D:\crud2\crud2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\crud2\crud2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\crud2\crud2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\crud2\crud2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\crud2\crud2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\crud2\crud2\bin\Debug\net9.0\Microsoft.AspNet.Identity.Core.dll
